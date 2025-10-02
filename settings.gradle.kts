@@ -1,0 +1,1 @@
+rootProject.name = "TS01271_NguyenTrongPhuc"
